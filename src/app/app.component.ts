@@ -21,7 +21,7 @@ export class MyApp {
       let push = Pushape.init({
         enabled: true,
         android: {
-          senderID: "12345679",
+          senderID: "665654160501",
           sound: "true",
           clearNotifications: "true",
           forceShow: "true"
